@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+dist/
+*.js.map
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Secrets / API keys
+*.key
+*.pem
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Test output
+.pytest_cache/
+coverage/
+htmlcov/

@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files (credentials)
+.env
+.env.*
+.env.local
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.pkl
+data/
+
+# OS
+.DS_Store

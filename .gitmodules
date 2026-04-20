@@ -1,0 +1,7 @@
+[submodule "polymarket-mcp-server"]
+	path = polymarket-mcp-server
+	url = https://github.com/EduGodoy07/polymarket-mcp-server.git
+
+[submodule "toobit-mcp-service"]
+	path = toobit-mcp-service
+	url = https://github.com/EduGodoy07/toobit-mcp-service.git
